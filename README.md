@@ -3,9 +3,9 @@ Hello World! 🤘🏻
 Call me Marques 😎
 <br>
 
-- ⚙ I’m currently working for a company on the IT Support Team.
+- ⚙ I’m currently working for a company on the I.T Support Team.
 - 📚 I’m currently learning web development and programming in general.
-- 👯 I’m looking to migrate from infrastructure to development.
+- 👯 I’m changing from I.T infrastructure to I.T development.
 - 🎵 I also do music for hobby 🎸🎷🥁🎹
 
 <br>
