@@ -5,7 +5,7 @@ Call me Marques 😎
 
 - ⚙ I’m currently working for a company on the IT Support Team.
 - 📚 I’m currently learning web development and programming in general.
-- 👯 I’m looking to migrate to from infrastructure to development.
+- 👯 I’m looking to migrate from infrastructure to development.
 - 🎵 I also do music for hobby 🎸🎷🥁🎹
 
 <br>
